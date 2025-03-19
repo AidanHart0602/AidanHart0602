@@ -16,7 +16,7 @@ I'm a software engineer passionate about all things Unity, C#, XR, and game deve
 - [Accessing Action Maps using C#](https://medium.com/@aidanhart321/accessing-action-maps-using-c-67c0e9200d7d)
 - [Setting up Signal Emitters](https://medium.com/@aidanhart321/setting-up-signal-emitters-ca2356af0100)
 <!-- BLOG-POST-LIST:END -->
-View more on my [website](https://aidanhart.me)
+View more on my [medium profile](https://medium.com/@aidanhart321)
 
 ---
 ### 💾 My projects
