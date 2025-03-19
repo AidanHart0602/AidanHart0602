@@ -126,4 +126,4 @@ This project is essentially a test of my C# skills and incorporates the majority
 <br/>
 <br/>
 
-View more on my [website](https://aidanhart.me)
+View more on my [portfolio website](https://aidanhart.me).
