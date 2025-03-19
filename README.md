@@ -38,8 +38,6 @@ This game had taught me the basics of C# and the usage of sprites to make a 2D s
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 
 
 <img src="https://img.itch.zone/aW1nLzE1NzcwNzMyLmpwZw==/315x250%23c/teAUky.jpg" align="left" width="400px"/> 
