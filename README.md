@@ -24,7 +24,7 @@ View more on my [website](https://aidanhart.me)
 
 <img src="https://img.itch.zone/aW1nLzIwMjQwMjQ4LnBuZw==/315x250%23c/2XIIYd.png" align="left" width="400px"/>
 
-# Galaxy Shooter
+<h1>Galaxy Shooter</h1>
 This game had taught me the basics of C# and the usage of sprites to make a 2D shooter game.
 <br/>
 <br/>
