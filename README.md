@@ -52,8 +52,6 @@ Apart from learning how to import projects from Unity to an Android device, I've
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 
 <img src="https://img.itch.zone/aW1nLzE2NTE0OTExLnBuZw==/315x250%23c/b2P%2B6v.png" align="left" width="400px"/> 
 
