@@ -86,7 +86,7 @@ This is a facility where you shoot as many robots as possible before they escape
 <img src="https://img.itch.zone/aW1nLzE5NDA0NTg4LnBuZw==/347x500/Gj4bdA.png" align="left" width="400px"/> 
 
 # Tower Defense Game
-This project is essentially a test of my C# skills and incorporates the majority of what I've learned into this game.
+This project is essentially a test of my C# skills and incorporates the majority of what I've learned into this game. Some of these skills include the use of Cinemachine, NavMesh agents, and interactable UI.
 <br/>
 <br/>
 <br/>
