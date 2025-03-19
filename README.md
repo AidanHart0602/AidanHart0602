@@ -38,11 +38,11 @@ This game had taught me the basics of C# and the usage of sprites to make a 2D s
 <br/>
 <br/>
 <br/>
+
 <img src="https://img.itch.zone/aW1nLzE1NzcwNzMyLmpwZw==/315x250%23c/teAUky.jpg" align="left" width="400px"/> 
 
 # AR Vehicle Examiner App
 Apart from learning how to import projects from Unity to an Android device, I've also learned how to create and place interactive models anywhere with AR.
-<br/>
 <br/>
 <br/>
 <br/>
@@ -68,14 +68,11 @@ This simulator focused mainly on what I've learned on Cinemachine and Timeline.
 <br/>
 <br/>
 <br/>
-<br/>
 
 <img src="https://img.itch.zone/aW1nLzE3NDY5NDY5LnBuZw==/315x250%23c/Myh48I.png" align="left" width="400px"/> 
 
 # Shooting Range
 This is a facility where you shoot as many robots as possible before they escape. The main focus of this project was to demonstrate my skills to create "Smart AI" that would follow a set path from point A to point B while also trying to avoid gun fire.
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
