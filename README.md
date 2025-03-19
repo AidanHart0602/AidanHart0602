@@ -6,8 +6,7 @@ I'm a software engineer passionate about all things Unity, C#, XR, and game deve
 
 [<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>Linkedin](https://www.linkedin.com/in/aidan-hart-61853427b/)
 
-[<img align="left" width="22px" src="http://samuelarminana.com/favicon.ico"/>Website/Resume](https://aidanhart.me
-)
+[📄Website/Resume](https://aidanhart.me)
 
 ### 📝 Check out my latest blog posts,
 <!-- BLOG-POST-LIST:START -->
