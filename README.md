@@ -52,6 +52,8 @@ Apart from learning how to import projects from Unity to an Android device, I've
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 
 <img src="https://img.itch.zone/aW1nLzE2NTE0OTExLnBuZw==/315x250%23c/b2P%2B6v.png" align="left" width="400px"/> 
 
@@ -83,11 +85,15 @@ This is a facility where you shoot as many robots as possible before they escape
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 
 <img src="https://img.itch.zone/aW1nLzE5NDA0NTg4LnBuZw==/347x500/Gj4bdA.png" align="left" width="400px"/> 
 
 # Tower Defense Game
 This project is essentially a test of my C# skills and incorporates the majority of what I've learned into this game.
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
