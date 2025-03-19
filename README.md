@@ -45,7 +45,13 @@ This game had taught me the basics of C# and the usage of sprites to make a 2D s
 
 <img src="https://img.itch.zone/aW1nLzE1NzcwNzMyLmpwZw==/315x250%23c/teAUky.jpg" align="left" width="400px"/> 
 
-# AR Vehicle Examiner App
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h1>AR Vehicle Examiner</h1>
+    </summary>
+  </ul>
+</div>
 Apart from learning how to import projects from Unity to an Android device, I've also learned how to create and place interactive models anywhere with AR.
 <br/>
 <br/>
@@ -60,7 +66,13 @@ Apart from learning how to import projects from Unity to an Android device, I've
 
 <img src="https://img.itch.zone/aW1nLzE2NTE0OTExLnBuZw==/315x250%23c/b2P%2B6v.png" align="left" width="400px"/> 
 
-# Space Simulator
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h1>Space Simulator</h1>
+    </summary>
+  </ul>
+</div>
 This simulator focused mainly on what I've learned on Cinemachine and Timeline.
 <br/>
 <br/>
@@ -76,7 +88,13 @@ This simulator focused mainly on what I've learned on Cinemachine and Timeline.
 
 <img src="https://img.itch.zone/aW1nLzE3NDY5NDY5LnBuZw==/315x250%23c/Myh48I.png" align="left" width="400px"/> 
 
-# Shooting Range
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h1>Shooting Range</h1>
+    </summary>
+  </ul>
+</div>
 This is a facility where you shoot as many robots as possible before they escape. The main focus of this project was to demonstrate my skills to create "Smart AI" that would follow a set path from point A to point B while also trying to avoid gun fire.
 <br/>
 <br/>
@@ -90,7 +108,13 @@ This is a facility where you shoot as many robots as possible before they escape
 
 <img src="https://img.itch.zone/aW1nLzE5NDA0NTg4LnBuZw==/347x500/Gj4bdA.png" align="left" width="400px"/> 
 
-# Tower Defense Game
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h1>Tower Defense Game</h1>
+    </summary>
+  </ul>
+</div>
 This project is essentially a test of my C# skills and incorporates the majority of what I've learned into this game. Some of these skills include the use of Cinemachine, NavMesh agents, and interactable UI.
 <br/>
 <br/>
