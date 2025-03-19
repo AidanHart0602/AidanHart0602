@@ -4,9 +4,9 @@ I'm a software engineer passionate about all things Unity, C#, XR, and game deve
 
 [<img align="left" width="22px" src="https://assetsio.reedpopcdn.com/Itch.io_logo.jpg?width=1200&height=1200&fit=crop&quality=100&format=png&enable=upscale&auto=webp"/>Itch](https://aidanhart.itch.io)
 
-[<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>Linkedin](https://www.linkedin.com/in/eric-veciana/)
+[<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>Linkedin](https://www.linkedin.com/in/aidan-hart-61853427b/)
 
-[<img align="left" width="22px" src="http://samuelarminana.com/favicon.ico"/>Website/Resume](https://eveciana21.wixsite.com/lobogames
+[<img align="left" width="22px" src="http://samuelarminana.com/favicon.ico"/>Website/Resume](https://aidanhart.me
 )
 
 ### 📝 Check out my latest blog posts,
