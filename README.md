@@ -26,11 +26,6 @@ View more on my [website](https://aidanhart.me)
 
 # Galaxy Shooter
 This game had taught me the basics of C# and the usage of sprites to make a 2D shooter game.
-
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
