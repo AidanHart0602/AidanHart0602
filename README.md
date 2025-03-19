@@ -69,7 +69,6 @@ This simulator focused mainly on what I've learned on Cinemachine and Timeline.
 <br/>
 <br/>
 <br/>
-<br/>
 
 <img src="https://img.itch.zone/aW1nLzE3NDY5NDY5LnBuZw==/315x250%23c/Myh48I.png" align="left" width="400px"/> 
 
