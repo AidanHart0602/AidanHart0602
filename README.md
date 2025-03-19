@@ -75,7 +75,8 @@ This is a facility where you shoot as many robots as possible before they escape
 <br/>
 <br/>
 <br/>
-
+<br/>
+<br/>
 
 <img src="https://img.itch.zone/aW1nLzE5NDA0NTg4LnBuZw==/347x500/Gj4bdA.png" align="left" width="400px"/> 
 
@@ -87,8 +88,7 @@ This project is essentially a test of my C# skills and incorporates the majority
 <br/>
 <br/>
 <br/>
-
-
-
+<br/>
+<br/>
 
 View more on my [website](https://aidanhart.me)
