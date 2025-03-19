@@ -41,12 +41,16 @@ This game had taught me the basics of C# and the usage of sprites to make a 2D s
 
 # AR Vehicle Examiner App
 Apart from learning how to import projects from Unity to an Android device, I've also learned how to create and place interactive models anywhere with AR.
-
 <br/>
 <br/>
 <br/>
 <br/>
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <img src="https://img.itch.zone/aW1nLzE2NTE0OTExLnBuZw==/315x250%23c/b2P%2B6v.png" align="left" width="400px"/> 
 
@@ -56,7 +60,12 @@ This simulator focused mainly on what I've learned on Cinemachine and Timeline.
 <br/>
 <br/>
 <br/>
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <img src="https://img.itch.zone/aW1nLzE3NDY5NDY5LnBuZw==/315x250%23c/Myh48I.png" align="left" width="400px"/> 
 
 # Shooting Range
