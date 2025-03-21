@@ -1,6 +1,6 @@
 ### Hello there!
 
-I'm a software engineer that's passionate about making fun Unity Experiences!
+I'm a software engineer that's passionate about making fun Unity experiences!
 
 [<img align="left" width="22px" src="https://assetsio.reedpopcdn.com/Itch.io_logo.jpg?width=1200&height=1200&fit=crop&quality=100&format=png&enable=upscale&auto=webp"/>Itch](https://aidanhart.itch.io)
 
